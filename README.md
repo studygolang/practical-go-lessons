@@ -14,7 +14,9 @@
 
 ## 分工安排
 
-为了避免重复翻译，翻译前通过 [issue](https://gitee.com/polarisxu/practical-go-lessons/issues) 申请任务。为了连贯性和方便，一个人一次认领一章。
+~~为了避免重复翻译，翻译前通过 [issue](https://gitee.com/polarisxu/practical-go-lessons/issues) 申请任务。为了连贯性和方便，一个人一次认领一章。~~
+
+issue 认领，大家觉得太乱。通过在线文档 <https://www.kdocs.cn/l/ss15Fw3Xa8gN> 认领。
 
 ## 翻译规范
 

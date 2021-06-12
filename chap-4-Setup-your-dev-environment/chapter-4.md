@@ -43,7 +43,7 @@ CPU 负责运行系统指令和程序。CPU 是一个通用术语，市面上有
 
 开始开发 Go 语言程序之前，你必须首先在你的计算机上安装 Go。为了安装它，你必须下载一个文件。根据你的 OS（操作系统），安装过程略有不同。只需按照与你的操作系统相对应的步骤操作即可。
 
-第一步（不依赖于你的操作系统）是去官方下载页面：**https://golang.org/dl/**。顺便说一下，golang.org 是 Go 的官方网站，我们强烈建议你仅从此 URL 下载 Go。
+第一步（不依赖于你的操作系统）是去官方下载页面：https://golang.org/dl/。 顺便说一下，golang.org 是Go 的官方网站，我们强烈建议你仅从此 URL 下载 Go。
 
 ![](./imgs/go_dl_page.fcb8887f.png)
 Go 下载页面
@@ -370,7 +370,7 @@ $ go version
   - 对于 Linux 和 Mac 用户：
     - 打开终端并键入“echo$PATH”
     - 检查目录 go/bin 是否在输出结果中
-      - \$echo $PATH /usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin
+      - \$echo \$PATH /usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin
       - 可以看到 /usr/local/go/bin 在 PATH 中
       - 如果没在，则将 /usr/local/go/bin 添加到 PATH 中（按照上一节中的说明操作）
   - 对于 Windows 用户：
@@ -418,15 +418,17 @@ zsh: exec format error: go
 ### 8.2 答案
 
 1. 如何输出 Go 的版本号？
-   1. 打开终端
-   2. 输入
+
+    1. 打开终端
+    2. 输入
       ```
       $ go version
       ```
-   3. 回车
+    3. 回车
 
 2. 在哪里能找到最新版本的 Go？
-   1. Go 的最新版本可在官方网站上获得：https://golang.org/dl/
+    
+    1. Go 的最新版本可在官方网站上获得：https://golang.org/dl/
 
 ## 9 关键要点
  

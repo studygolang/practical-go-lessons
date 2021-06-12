@@ -24,6 +24,8 @@ issue 认领，大家觉得太乱。通过在线文档 <https://www.kdocs.cn/l/s
 - 参照[《中文排版指北》](https://github.com/studygolang/GCTT/blob/master/chinese-copywriting-guidlines.md)
 - 目录结构见仓库第一章示例
 - 一级标题用于章名称，然后一次递减
+- 目录、文件名别用中文，别包含特殊字符、空格等
+- 术语请参考 [dict](dict.md)
 
 ## 仓库
 

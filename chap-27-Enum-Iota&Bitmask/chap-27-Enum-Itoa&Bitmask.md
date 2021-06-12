@@ -1020,6 +1020,5 @@ const (
 
 
 ## 参考文献
-
 [^institute1990ieee] Electrical, Institute of, and Electronics Engineers. 1990. “IEEE Standard Glossary of Software Engineering Terminology: Approved September 28, 1990, IEEE Standards Board.” In. Inst. of Electrical; Electronics Engineers.
 [^go-specs] “The Go Programming Language Specification.” n.d. Accessed April 30, 2018. https://golang.org/ref/spec.

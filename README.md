@@ -1,5 +1,7 @@
 # 图书《Practical Go Lessons》中文翻译
 
+由于作者自己在翻译中文版，因此没有授权给我们翻译。此仓库作废！
+
 ## 介绍
 
 前段时间发现了一本好书：[Practical Go Lessons](https://www.practical-go-lessons.com)，挺多人希望翻译成中文，于是有了这个项目。
